@@ -137,7 +137,7 @@ Contributions are welcome! Please follow the standard GitHub workflow for contri
 - **Utsav Singhal**: AI/ML
 - **Ansh Chawla**: ML
 - **Anshul Bansal**: Data Processing
-- **Sanya Bansal**: Frontend
+- **Sanya Behera**: Frontend
 - **Nandani Daga**: Frontend
 - **Ayush Singhal**: Backend
 
